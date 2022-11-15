@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+int main(){
+	int arrayDimensi2[2][3];
+ 
+ 	for(int i=0;i<3;i++){
+  		for(int j=0;j<2;j++){
+   		cout<<"Masukkan Nilai Siswa Urutan Baris-"<<j+1<<" Kolom Ke-"<<i+1<<" : ";
+  		cin>>arrayDimensi2[j][i]; 
+  		}	
+ 	}
+ 
+ 	cout<<endl;
+ 
+ 	for(int i=0;i<3;i++){
+  		for(int j=0;j<2;j++){
+   		cout<<"Nilai Siswa Urutan Baris-"<<j+1<<" Kolom Ke-"<<i+1<<" Adalah : "<<arrayDimensi2[j][i];
+   		cout<<endl;
+  		}
+ 	}
+
+}
