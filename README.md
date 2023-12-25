@@ -1,11 +1,11 @@
 ![Header](https://i.pinimg.com/564x/4b/5f/74/4b5f746744e9aeea98f430c5afcc50c5.jpg "Header")
 
 ## LAPORAN PRAKTIKUM💻!  
-<b> LAPORAN PRAKTIKUM OBJECT ORIENTED PROGRAMMING </b>
+<b> LAPORAN PRAKTIKUM PEMOGRAMAN BERBASIS OBJECT </b>
 
 ## Tentang
 
-Di README Kali Ini Saya Akan Menampilkan Hasil atau Analisa Dari Hasil Praktikum Yang Saya Lakukan
+Di README Kali Ini Saya Akan Menampilkan Hasil atau Analisa Dari Hasil Praktikum Yang Saya Lakukan Selama Satu Semester Ini
 
 ## Bahasa Pemograman & Compiler
 
@@ -1459,5 +1459,4 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
    
 ## Contact us
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/galuhyeager23) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GaluhGarha71919) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/galuh-garhadi-5714a7240/) 
-<p align="center"><b> ©2023 Raden Galuh Garhadi Cakranata </p></b>
+<b> ©2023 Ahmad Hanif Fajri </p></b>
