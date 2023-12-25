@@ -25,25 +25,25 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
     <b> Latihan 1</b>
     <p> Program ini adalah program sederhana dalam bahasa pemrograman Java yang mencetak teks "Hello World!" ke layar beberapa kali. Berikut adalah penjelasan singkatnya:</p>
     
-    1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.hello.java".
+    1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.hello.java".
     
-    2. Kemudian, program mendefinisikan sebuah kelas Java bernama `HelloJava`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
+    2. Kemudian, program mendefinisikan sebuah kelas Java bernama HelloJava. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
     
-    3. Di dalam kelas `HelloJava`, ada metode `main` yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan 
+    3. Di dalam kelas HelloJava, ada metode main yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan 
   
-    4. Di dalam metode `main`, terdapat perintah `System.out.println("Hello World!");` yang mencetak teks "Hello World!" ke layar sebanyak enam kali.
+    4. Di dalam metode main, terdapat perintah System.out.println("Hello World!"); yang mencetak teks "Hello World!" ke layar sebanyak enam kali.
       Jadi, program ini hanya mencetak pesan "Hello World!" ke layar sebanyak enam kali saat dijalankan
    <p>
         <b> Tugas 1 </b>
         <p>Program ini adalah program sederhana dalam bahasa pemrograman Java yang mencetak pesan selamat datang ke layar. Berikut adalah penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.nama".
+      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.nama".
      
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `Nama`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
+      2. Kemudian, program mendefinisikan sebuah kelas Java bernama Nama. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
   
-      3. Di dalam kelas `Nama`, ada metode `main` yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan).
+      3. Di dalam kelas Nama, ada metode main yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan).
       
-      4. Di dalam metode `main`, terdapat dua perintah `System.out.println()` yang mencetak pesan-pesan berikut ke layar:
+      4. Di dalam metode main, terdapat dua perintah System.out.println() yang mencetak pesan-pesan berikut ke layar:
            - "Welcome to Java Programming Raden Galuh Garhadi Cakranata!"
            - "Have A Great Activity"
         Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
@@ -52,15 +52,15 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
         <b> Tugas 2 </b>
         <p>Program ini adalah program Java yang mencetak beberapa baris teks ke layar. Program ini tampaknya mencetak potongan puisi atau teks yang menggambarkan pohon. Berikut adalah penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (`package`) Java, dalam hal ini paket adalah "com.mycompany.thetree".
+      1. Program dimulai dengan mendefinisikan paket (package) Java, dalam hal ini paket adalah "com.mycompany.thetree".
      
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `TheTree`.
+      2. Kemudian, program mendefinisikan sebuah kelas Java bernama TheTree.
   
-      3. Di dalam kelas `TheTree`, ada metode `main` yang merupakan titik masuk utama program.
+      3. Di dalam kelas TheTree, ada metode main yang merupakan titik masuk utama program.
 
-      4. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan).
+      4. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan).
       
-      5. Di dalam metode `main`, terdapat empat perintah `System.out.println(...);` yang mencetak empat baris teks berbeda ke layar. Teks yang dicetak tampaknya adalah bagian dari puisi atau teks deskriptif yang menggambarkan sebuah pohon.
+      5. Di dalam metode main, terdapat empat perintah System.out.println(...); yang mencetak empat baris teks berbeda ke layar. Teks yang dicetak tampaknya adalah bagian dari puisi atau teks deskriptif yang menggambarkan sebuah pohon.
 
         Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
    </p>
@@ -68,13 +68,13 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
         <b> Tugas 3 </b>
         <p>Program ini adalah program Java sederhana yang mencetak pesan-pesan ke layar yang menggambarkan kesan pertama seorang pembelajar saat mengikuti perkuliahan praktikum OOP (Object-Oriented Programming). Berikut adalah penjelasan singkatnya:
 
-      1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.kesanpembelajaran".
+      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.kesanpembelajaran".
      
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `KesanPembelajaran`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
+      2. Kemudian, program mendefinisikan sebuah kelas Java bernama KesanPembelajaran. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
   
-      3. Di dalam kelas `KesanPembelajaran`, ada metode `main` yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array `args` (walaupun dalam program ini tidak digunakan).
+      3. Di dalam kelas KesanPembelajaran, ada metode main yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan).
 
-      4. Di dalam metode `main`, program mencetak sejumlah pesan ke layar dengan menggunakan perintah `System.out.println()`. Pesan-pesan tersebut menggambarkan kesan pertama pembelajar saat mengikuti perkuliahan praktikum OOP. Pesan-pesan tersebut mencakup rasa antusiasme, materi yang diajarkan, konsep dasar OOP yang dipelajari, pengalaman praktis dalam membangun program dengan paradigma OOP, dan apresiasi terhadap dosen yang mengajar.
+      4. Di dalam metode main, program mencetak sejumlah pesan ke layar dengan menggunakan perintah System.out.println(). Pesan-pesan tersebut menggambarkan kesan pertama pembelajar saat mengikuti perkuliahan praktikum OOP. Pesan-pesan tersebut mencakup rasa antusiasme, materi yang diajarkan, konsep dasar OOP yang dipelajari, pengalaman praktis dalam membangun program dengan paradigma OOP, dan apresiasi terhadap dosen yang mengajar.
 
         Jadi, program ini digunakan untuk mencatat dan membagikan kesan pertama seorang pembelajar dalam mengikuti perkuliahan praktikum OOP.
    </p>
@@ -84,38 +84,38 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
     <b> Latihan 1</b>
     <p> Program ini adalah program Java yang menunjukkan penggunaan komentar dalam kode Java. Berikut adalah penjelasan singkatnya:</p>
     
-    1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.komentarjava".
+    1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.komentarjava".
     
-    2. Kemudian, program mendefinisikan sebuah kelas Java bernama `KomentarJava`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
+    2. Kemudian, program mendefinisikan sebuah kelas Java bernama KomentarJava. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
     
-    3. Di dalam metode `main`, terdapat beberapa jenis komentar yang digunakan dalam kode:
-    `// Comment line 1`: Ini adalah contoh komentar satu baris (single-line comment) yang digunakan untuk memberikan penjelasan atau catatan di atas atau di sebelah pernyataan kode. Komentar ini tidak akan memengaruhi eksekusi program.
+    3. Di dalam metode main, terdapat beberapa jenis komentar yang digunakan dalam kode:
+    // Comment line 1: Ini adalah contoh komentar satu baris (single-line comment) yang digunakan untuk memberikan penjelasan atau catatan di atas atau di sebelah pernyataan kode. Komentar ini tidak akan memengaruhi eksekusi program.
    `/* Comment line 2
             Comment line 3
             Comment line 4
    */`: Ini adalah contoh komentar multi-baris (multi-line comment) yang digunakan untuk menulis komentar yang melintasi beberapa baris kode. Komentar ini juga berfungsi sebagai penjelasan atau catatan, dan seperti komentar satu baris, tidak memengaruhi eksekusi program. 
   
-     jadi, program ini digunakan untuk menunjukkan cara penggunaan komentar dalam kode Java, baik komentar satu baris (`//`) maupun komentar multi-baris (`/* */`). Komentar digunakan untuk dokumentasi, penjelasan, atau catatan dalam kode yang membantu pemrogram dan orang lain yang membaca kode untuk memahami maksud dan fungsi kode tersebut.
+     jadi, program ini digunakan untuk menunjukkan cara penggunaan komentar dalam kode Java, baik komentar satu baris (//) maupun komentar multi-baris (/* */). Komentar digunakan untuk dokumentasi, penjelasan, atau catatan dalam kode yang membantu pemrogram dan orang lain yang membaca kode untuk memahami maksud dan fungsi kode tersebut.
    <p>
         <b> Latihan 2 </b>
         <p>Program ini adalah program Java yang mengilustrasikan konsep "case-sensitive" dalam bahasa pemrograman Java. Dalam Java, pengenal (identifier) seperti nama variabel, kelas, dan metode adalah case-sensitive, artinya huruf besar dan kecil dianggap berbeda. Berikut adalah penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.tugascasesensitive".
+      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.tugascasesensitive".
      
-      2. KKemudian, program mendefinisikan sebuah kelas Java bernama `TugasCaseSensitive`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
+      2. KKemudian, program mendefinisikan sebuah kelas Java bernama TugasCaseSensitive. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
   
-      3. Di dalam metode `main`, program menunjukkan beberapa contoh penggunaan variabel dengan nama yang memiliki perbedaan huruf besar dan kecil (case-sensitive).).
+      3. Di dalam metode main, program menunjukkan beberapa contoh penggunaan variabel dengan nama yang memiliki perbedaan huruf besar dan kecil (case-sensitive).).
       
       4. Ada tiga variabel yang dideklarasikan:
-        - `int data = 10;`: Variabel `data` dengan huruf kecil.
-        - `int Data = 10;`: Variabel `Data` dengan huruf pertama besar.
-        - `int DATA = 10;`: Variabel `DATA` dengan huruf besar semua.
+        - int data = 10;: Variabel data dengan huruf kecil.
+        - int Data = 10;: Variabel Data dengan huruf pertama besar.
+        - int DATA = 10;: Variabel DATA dengan huruf besar semua.
      
-       5. Program mencetak nilai dari variabel-variabel ini ke layar menggunakan `System.out.println()`. Terlihat bahwa variabel `data` dan `Data` dapat dicetak tanpa masalah karena mereka telah dideklarasikan. Namun, untuk variabel `DATA`, program harus menambahkan tipe nama variabel tambahan (dalam hal ini "DATA") agar tidak terjadi kesalahan saat kompilasi.
+       5. Program mencetak nilai dari variabel-variabel ini ke layar menggunakan System.out.println(). Terlihat bahwa variabel data dan Data dapat dicetak tanpa masalah karena mereka telah dideklarasikan. Namun, untuk variabel DATA, program harus menambahkan tipe nama variabel tambahan (dalam hal ini "DATA") agar tidak terjadi kesalahan saat kompilasi.
 
-       6. Program mencoba mencetak nilai variabel `data` dan `DATA`. Variabel `data` dapat dicetak tanpa masalah, tetapi variabel `DATA` akan menghasilkan kesalahan saat kompilasi karena tidak ada deklarasi untuk variabel `DATA`.
+       6. Program mencoba mencetak nilai variabel data dan DATA. Variabel data dapat dicetak tanpa masalah, tetapi variabel DATA akan menghasilkan kesalahan saat kompilasi karena tidak ada deklarasi untuk variabel DATA.
 
-       7. Untuk menghindari kesalahan kompilasi, program menambahkan deklarasi variabel `DATA` dengan tipe nama "DATA", sehingga program dapat berjalan tanpa masalah.
+       7. Untuk menghindari kesalahan kompilasi, program menambahkan deklarasi variabel DATA dengan tipe nama "DATA", sehingga program dapat berjalan tanpa masalah.
 
        Jadi, program ini menunjukkan bahwa dalam Java, pengenal seperti nama variabel adalah case-sensitive, yang berarti perbedaan huruf besar dan kecil dianggap berbeda, dan perlu deklarasi yang sesuai untuk setiap varian huruf besar dan kecil dalam pengenalan variabel
    </p>
@@ -123,20 +123,20 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
         <b> Tugas 1</b>
         <p>Program ini adalah program Java yang mengilustrasikan konsep "case-sensitive" dalam bahasa pemrograman Java. Program ini mencoba mengeluarkan variabel dengan nama yang memiliki perbedaan huruf besar dan kecil (case-sensitive) serta memberikan penjelasan tentang bagaimana mengatasi masalah ini. Berikut penjelasan singkatnya:
       
-      1. Program dimulai dengan mendefinisikan paket (`package`) di dalam Java, dalam hal ini paket adalah "com.mycompany.tugascasesensitive"
+      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.tugascasesensitive"
      
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama `TugasCaseSensitive`. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan..
+      2. Kemudian, program mendefinisikan sebuah kelas Java bernama TugasCaseSensitive. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan..
   
-      3. Di dalam metode `main`, program mendeklarasikan tiga variabel dengan nama yang memiliki perbedaan huruf besar dan kecil (case-sensitive):
-        - `int data = 10;`: Variabel `data` dengan huruf kecil.
-        - `int Data = 10;`: Variabel `Data` dengan huruf pertama besar.
-        - `int DATA = 10;`: Variabel `DATA` dengan huruf besar semua.
+      3. Di dalam metode main, program mendeklarasikan tiga variabel dengan nama yang memiliki perbedaan huruf besar dan kecil (case-sensitive):
+        - int data = 10;: Variabel data dengan huruf kecil.
+        - int Data = 10;: Variabel Data dengan huruf pertama besar.
+        - int DATA = 10;: Variabel DATA dengan huruf besar semua.
 
-      4. Program mencetak nilai dari variabel-variabel ini ke layar menggunakan `System.out.println()`. Variabel `data` dan `Data` dapat dicetak tanpa masalah karena mereka telah dideklarasikan. Namun, variabel `DATA` tidak bisa dicetak tanpa deklarasi tambahan.
+      4. Program mencetak nilai dari variabel-variabel ini ke layar menggunakan System.out.println(). Variabel data dan Data dapat dicetak tanpa masalah karena mereka telah dideklarasikan. Namun, variabel DATA tidak bisa dicetak tanpa deklarasi tambahan.
       
-      5. Untuk menghindari kesalahan kompilasi yang disebabkan oleh variabel `DATA`, program menambahkan deklarasi variabel `DATA` dengan tipe nama "DATA".
+      5. Untuk menghindari kesalahan kompilasi yang disebabkan oleh variabel DATA, program menambahkan deklarasi variabel DATA dengan tipe nama "DATA".
 
-      6. Setelah deklarasi tambahan, program mencoba mencetak nilai variabel `DATA`, dan sekarang program dapat berjalan tanpa masalah.
+      6. Setelah deklarasi tambahan, program mencoba mencetak nilai variabel DATA, dan sekarang program dapat berjalan tanpa masalah.
 
         Jadi, program ini menunjukkan bahwa dalam Java, pengenal seperti nama variabel adalah case-sensitive, yang berarti perbedaan huruf besar dan kecil dianggap berbeda, dan perlu deklarasi yang sesuai untuk setiap varian huruf besar dan kecil dalam pengenalan variabel.
    </p>
@@ -687,7 +687,7 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
         Program ini memungkinkan pengguna untuk memasukkan tiga nilai ujian, menghitung rata-rata nilai tersebut, dan memberikan umpan balik berdasarkan rata-rata nilai tersebut.
    </p>
    <p>
-        <b> Tugas 1 ( JOptionPane ) </b>
+   <b> Tugas 1 ( JOptionPane ) </b>
         <p>Program ini adalah program Java yang menghitung rata-rata dari tiga nilai ujian yang dimasukkan oleh pengguna menggunakan dialog JOptionPane. Berikut adalah penjelasan singkatnya:
           
       1. Import Statement: Program ini mengimpor javax.swing.JOptionPane untuk digunakan dalam menampilkan dialog input dan output.
@@ -1457,5 +1457,7 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
        Program ini menunjukkan cara encapsulation membantu dalam menyembunyikan implementasi internal suatu class dan memungkinkan akses kontrol yang lebih baik. Dengan menggunakan setter dan getter, program dapat mengontrol cara nilai-nilai ini diubah dan diakses, sehingga memperkuat konsep privasi dan keamanan dalam suatu class.
    </p>
    
+## Contact us
 
-<b> ©2023 Ahmad Hanif Fajri </p></b>
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/galuhyeager23) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GaluhGarha71919) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/galuh-garhadi-5714a7240/) 
+<p align="center"><b> ©2023 Rahmat Hidayat Pakak </p></b>
