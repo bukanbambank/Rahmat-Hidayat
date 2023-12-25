@@ -1457,6 +1457,5 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
        Program ini menunjukkan cara encapsulation membantu dalam menyembunyikan implementasi internal suatu class dan memungkinkan akses kontrol yang lebih baik. Dengan menggunakan setter dan getter, program dapat mengontrol cara nilai-nilai ini diubah dan diakses, sehingga memperkuat konsep privasi dan keamanan dalam suatu class.
    </p>
    
-## Contact us
 
 <b> ©2023 Ahmad Hanif Fajri </p></b>
