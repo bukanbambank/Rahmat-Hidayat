@@ -5,8 +5,6 @@
 
 ## Tentang
 
-Di README Kali Ini Saya Akan Menampilkan Hasil atau Analisa Dari Hasil Praktikum Yang Saya Lakukan Selama Satu Semester Ini
-
 ## Bahasa Pemograman & Compiler
 
 Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograman Java dan Menggunakan Aplikasi Netbeans IDE Untuk Compiler nya
@@ -22,62 +20,10 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
 <p>
 <b> 1. JOBSHEET 1</b>
   <p>
-    <b> Latihan 1</b>
-    <p> Program ini adalah program sederhana dalam bahasa pemrograman Java yang mencetak teks "Hello World!" ke layar beberapa kali. Berikut adalah penjelasan singkatnya:</p>
-    
-    1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.hello.java".
-    
-    2. Kemudian, program mendefinisikan sebuah kelas Java bernama HelloJava. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-    
-    3. Di dalam kelas HelloJava, ada metode main yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan 
-  
-    4. Di dalam metode main, terdapat perintah System.out.println("Hello World!"); yang mencetak teks "Hello World!" ke layar sebanyak enam kali.
-      Jadi, program ini hanya mencetak pesan "Hello World!" ke layar sebanyak enam kali saat dijalankan
-   <p>
-        <b> Tugas 1 </b>
-        <p>Program ini adalah program sederhana dalam bahasa pemrograman Java yang mencetak pesan selamat datang ke layar. Berikut adalah penjelasan singkatnya:
-      
-      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.nama".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama Nama. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-  
-      3. Di dalam kelas Nama, ada metode main yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan).
-      
-      4. Di dalam metode main, terdapat dua perintah System.out.println() yang mencetak pesan-pesan berikut ke layar:
-           - "Welcome to Java Programming Raden Galuh Garhadi Cakranata!"
-           - "Have A Great Activity"
-        Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
-   </p>
-      <p>
-        <b> Tugas 2 </b>
-        <p>Program ini adalah program Java yang mencetak beberapa baris teks ke layar. Program ini tampaknya mencetak potongan puisi atau teks yang menggambarkan pohon. Berikut adalah penjelasan singkatnya:
-      
-      1. Program dimulai dengan mendefinisikan paket (package) Java, dalam hal ini paket adalah "com.mycompany.thetree".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama TheTree.
-  
-      3. Di dalam kelas TheTree, ada metode main yang merupakan titik masuk utama program.
-
-      4. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan).
-      
-      5. Di dalam metode main, terdapat empat perintah System.out.println(...); yang mencetak empat baris teks berbeda ke layar. Teks yang dicetak tampaknya adalah bagian dari puisi atau teks deskriptif yang menggambarkan sebuah pohon.
-
-        Jadi, program ini mencetak dua pesan selamat datang ke layar saat dijalankan. Pesan tersebut adalah "Welcome to Java Programming Raden Galuh Garhadi Cakranata!" dan "Have A Great Activity".
-   </p>
-         <p>
-        <b> Tugas 3 </b>
-        <p>Program ini adalah program Java sederhana yang mencetak pesan-pesan ke layar yang menggambarkan kesan pertama seorang pembelajar saat mengikuti perkuliahan praktikum OOP (Object-Oriented Programming). Berikut adalah penjelasan singkatnya:
-
-      1. Program dimulai dengan mendefinisikan paket (package) di dalam Java, dalam hal ini paket adalah "com.mycompany.kesanpembelajaran".
-     
-      2. Kemudian, program mendefinisikan sebuah kelas Java bernama KesanPembelajaran. Kelas ini adalah kelas utama yang akan dieksekusi saat program dijalankan.
-  
-      3. Di dalam kelas KesanPembelajaran, ada metode main yang merupakan titik masuk utama program. Metode ini menerima argumen dalam bentuk array args (walaupun dalam program ini tidak digunakan).
-
-      4. Di dalam metode main, program mencetak sejumlah pesan ke layar dengan menggunakan perintah System.out.println(). Pesan-pesan tersebut menggambarkan kesan pertama pembelajar saat mengikuti perkuliahan praktikum OOP. Pesan-pesan tersebut mencakup rasa antusiasme, materi yang diajarkan, konsep dasar OOP yang dipelajari, pengalaman praktis dalam membangun program dengan paradigma OOP, dan apresiasi terhadap dosen yang mengajar.
-
-        Jadi, program ini digunakan untuk mencatat dan membagikan kesan pertama seorang pembelajar dalam mengikuti perkuliahan praktikum OOP.
-   </p>
+       
+    1.  Memahami Syntax dasar dari Pemrograman Java serta mendeskripsikan tentang package, class, object, method dan variables.
+    2.  Mencoba dan membuat, meng-compile, menjalankan program sederhana java dan menganalisis kesalahan selama pemrograman.
+    3. Pada praktikum ini membahas beberapa konsep dasar dalam pemrograman Java, termasuk penggunaan package untuk mengorganisasi kode, import untuk mengakses method atau perintah, serta class, object, method, dan variables sebagai komponen utama dalam pembuatan program Java. Selain itu, Java Archive (JAR) digunakan untuk mengemas kode Java menjadi bytecode yang dapat didistribusikan. Keseluruhan materi membantu memahami dasar-dasar pemrograman Java dan pengaturan struktur program.
    <p>
 <b> 2. JOBSHEET 2</b>
   <p>
