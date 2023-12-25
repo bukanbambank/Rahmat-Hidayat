@@ -20,10 +20,10 @@ Dalam Praktikum Kali ini Bahasa Pemograman Yang Digunakan Ialah Bahasa Pemograma
 <p>
 <b> 1. JOBSHEET 1</b>
   <p>
-       1.  Memahami Syntax dasar dari Pemrograman Java serta mendeskripsikan tentang package, class, object, method dan variables.
-    2.  Mencoba dan membuat, meng-compile, menjalankan program sederhana java 
+1.  Memahami Syntax dasar dari Pemrograman Java serta mendeskripsikan tentang package, class, object, method dan variables.
+2.  Mencoba dan membuat, meng-compile, menjalankan program sederhana java 
 dan menganalisis kesalahan selama pemrograman.
-    3. Pada praktikum ini membahas beberapa konsep dasar dalam pemrograman Java, termasuk penggunaan package untuk mengorganisasi kode, import untuk mengakses method atau perintah, serta class, object, method, dan variables sebagai komponen utama dalam pembuatan program Java. Selain itu, Java Archive (JAR) digunakan untuk mengemas kode Java menjadi bytecode yang dapat didistribusikan. Keseluruhan materi membantu memahami dasar-dasar pemrograman Java dan pengaturan struktur program.
+3. Pada praktikum ini membahas beberapa konsep dasar dalam pemrograman Java, termasuk penggunaan package untuk mengorganisasi kode, import untuk mengakses method atau perintah, serta class, object, method, dan variables sebagai komponen utama dalam pembuatan program Java. Selain itu, Java Archive (JAR) digunakan untuk mengemas kode Java menjadi bytecode yang dapat didistribusikan. Keseluruhan materi membantu memahami dasar-dasar pemrograman Java dan pengaturan struktur program.
    <p>
 <b> 2. JOBSHEET 2</b>
   <p>
