@@ -1406,4 +1406,4 @@ dan menganalisis kesalahan selama pemrograman.
 ## Contact us
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/galuhyeager23) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GaluhGarha71919) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/galuh-garhadi-5714a7240/) 
-<p align="center"><b> ©2023 Rahmat Hidayat Pakak </p></b>
+<p align="center"><b> ©2023 Rahmat Hidayat</p></b>
